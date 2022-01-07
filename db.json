@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "text": "background removal ps",
+      "day": "fri, 4pm",
+      "desc": "I know in depth how it works properly",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
