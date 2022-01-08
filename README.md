@@ -1,3 +1,11 @@
+# Live Demo
+
+![](images/task_tracker_shot1.png)
+#
+![](images/task_tracker_shot2.png)
+#
+![](images/task_tracker_shot3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
